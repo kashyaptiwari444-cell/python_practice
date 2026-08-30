@@ -1,0 +1,258 @@
+Python Complete Quick List
+=============================
+
+1. Variables & Data Types
+___________________________
+Variable
+int
+float
+complex
+str
+bool
+None
+list
+tuple
+set
+frozenset
+dict
+bytes
+bytearray
+
+2. Conditions
+___________________________
+if
+elif
+else
+and
+or
+not
+in
+is
+
+3. Loops
+___________________________
+for
+while
+break
+continue
+pass
+
+4. String Methods
+___________________________
+upper()
+lower()
+capitalize()
+title()
+swapcase()
+casefold()
+strip()
+lstrip()
+rstrip()
+replace()
+split()
+join()
+find()
+index()
+count()
+startswith()
+endswith()
+isdigit()
+isalpha()
+isalnum()
+isspace()
+format()
+
+5. List Methods
+___________________________
+append()
+extend()
+insert()
+remove()
+pop()
+clear()
+index()
+count()
+sort()
+reverse()
+copy()
+
+6. Tuple Methods
+___________________________
+count()
+index()
+
+7. Set Methods
+___________________________
+add()
+update()
+remove()
+discard()
+pop()
+clear()
+union()
+intersection()
+difference()
+symmetric_difference()
+issubset()
+issuperset()
+isdisjoint()
+
+8. Dictionary Methods
+
+keys()
+values()
+items()
+get()
+update()
+pop()
+popitem()
+clear()
+copy()
+setdefault()
+fromkeys()
+
+9. Functions
+
+def
+return
+arguments
+parameters
+*args
+**kwargs
+lambda
+global
+nonlocal
+
+10. Exception Handling
+
+try
+except
+else
+finally
+raise
+assert
+
+11. File Handling
+
+open()
+read()
+readline()
+readlines()
+write()
+writelines()
+close()
+with
+
+12. Modules & Packages
+
+import
+from
+as
+def
+__name__
+__main__
+
+13. OOP
+
+class
+object
+__init__
+self
+inheritance
+encapsulation
+polymorphism
+abstraction
+super()
+classmethod
+staticmethod
+property
+
+14. Comprehension
+
+List comprehension
+Dictionary comprehension
+Set comprehension
+Generator expression
+
+15. Important Built-in Functions
+
+print()
+input()
+type()
+len()
+range()
+int()
+float()
+str()
+bool()
+list()
+tuple()
+set()
+dict()
+sum()
+min()
+max()
+abs()
+round()
+sorted()
+reversed()
+enumerate()
+zip()
+map()
+filter()
+any()
+all()
+id()
+dir()
+help()
+
+16. Operators
+
+Arithmetic
+Assignment
+Comparison
+Logical
+Identity
+Membership
+Bitwise
+
+17. Advanced Python
+
+Iterator
+Iterable
+Generator
+Decorator
+Context Manager
+Iterator Protocol
+Generator
+yield
+async
+await
+Type Hints
+Dataclasses
+Regular Expressions
+Virtual Environment
+pip
+Package Management
+
+18. Common Python Libraries
+
+math
+random
+datetime
+os
+sys
+json
+re
+time
+statistics
+collections
+itertools
+functools
+sqlite3
+requests
+Django
+Flask
+FastAPI
+NumPy
+Pandas
